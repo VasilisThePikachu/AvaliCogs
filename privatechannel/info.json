@@ -1,0 +1,9 @@
+{
+    "author" : ["VasilisThePikachu (AvaliCogs)"],
+    "install_msg" : "Use [p]create (channelname) to make a new channel, [p]adduser (@user) and [p]deluser (@user) in the respective channel to add and remove",
+    "name" : "Private Channel",
+    "short" : "Easily create and add users to a private channel.",
+    "description" : "Easily create and add users to a private channel.",
+    "tags" : ["private channel", "private", "channel", "management"],
+    "hidden" : true
+}
